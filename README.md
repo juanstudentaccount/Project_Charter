@@ -1,2 +1,4 @@
 # Project_Charter
-Project_Charter link: 
+Project_Charter link: https://juanstudentaccount.github.io/Project_Charter/Updated_Project_Charter.html
+
+
